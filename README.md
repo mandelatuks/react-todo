@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Todo APP
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![image](https://user-images.githubusercontent.com/38649067/171064135-b4f31263-ca86-40d4-a262-9f8a1630cc47.png)
 
 Additional description about the project and its features.
 
