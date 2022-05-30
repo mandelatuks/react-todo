@@ -1,5 +1,8 @@
-import React, { Component } from 'react'
-import TodoItem from './TodoItem'
+/* eslint-disable react/prefer-stateless-function */
+/* eslint-disable react/prop-types */
+/* eslint-disable react/destructuring-assignment */
+import React, { Component } from 'react';
+import TodoItem from './TodoItem';
 
 export default class TodosList extends Component {
   render() {
@@ -10,6 +13,8 @@ export default class TodosList extends Component {
             key={todo.id}
             todo={todo}
             handleChangeProps={this.props.handleChangeProps}
+            // eslint-disable-next-line react/destructuring-assignment
+            // eslint-disable-next-line react/prop-types
             deleteTodoProps={this.props.deleteTodoProps}
           />
         ))}
@@ -17,6 +22,3 @@ export default class TodosList extends Component {
     );
   }
 }
-
-
-  // <input type="checkbox" /> {this.props.todo.title}
