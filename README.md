@@ -1,10 +1,25 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Getting Started with Create React App
 
 # Todo APP
 
-> One paragraph statement about the project.
-
+## Available Scripts
 ![image](https://user-images.githubusercontent.com/38649067/171064135-b4f31263-ca86-40d4-a262-9f8a1630cc47.png)
+
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
 
 Additional description about the project and its features.
 
@@ -21,34 +36,12 @@ Additional description about the project and its features.
 [Live Demo Link coming soon] 
 
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
-## Getting Started
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Setup
-~~~ 
-git clone git@github.com:mandelatuks/react-todo.git
-cd react-todo
-~~~
-- build project
-```
-npm run build
-```
-- start project
-```
-npm start
-```
-
-### Environment Prerequisites
-
-Web Browser
-
-Code editor: Vscode or any code editor of your choice
-
-## Authors
 
 👤 **Mandela Tumukunde**
 
@@ -56,21 +49,7 @@ Code editor: Vscode or any code editor of your choice
 - Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
 - LinkedIn: [@Mandela Tumukunde](https://www.linkedin.com/in/mandela-tumukunde-794755194/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
 
 - Hat tip to anyone whose code was used
 
-## 📝 License
-
 This project is [MIT](./MIT.md) licensed.
-
